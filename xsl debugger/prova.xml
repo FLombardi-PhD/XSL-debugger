@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <a>ciao</a>
+    <b>
+        <c>ciao2</c>
+        <d>
+            <e>ciao3</e>
+        </d>
+    </b>
+</doc>

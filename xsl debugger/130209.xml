@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <a>
+        <d>testo 1</d>
+        testo 2
+        <c>testo 3</c>
+    </a>
+    <c>
+        <a></a>
+        <b>testo 4
+            <c>testo 5</c>
+            <d>
+                <e>testo 6
+                    <c>testo 7</c>
+                </e>
+            </d>
+            <a>testo 8</a>
+        </b>
+        <b></b>
+    </c>
+</root>

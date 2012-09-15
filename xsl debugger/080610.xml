@@ -1,0 +1,23 @@
+<r>
+    <x>testo 0</x>
+    <y>
+        <x>testo 1</x>
+        <z>testo 2</z>
+    </y>
+    <x>
+        <x/>
+        <y>testo 3
+            <x>testo 4</x>
+        </y>
+        <x>testo 5
+            <x/>
+        </x>
+    </x>
+    <z>
+        <y>testo 6</y>
+        <z>testo 7
+            <x/>
+        </z>
+    </z>
+    <x/>
+</r>

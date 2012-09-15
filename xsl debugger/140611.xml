@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rad>
+    <x>testo 0
+        <rad>testo 1</rad>
+    </x>
+    <rad>
+        <x>
+            <w>
+                <z>testo 2</z>
+            </w>
+        </x>
+    </rad>
+    <x>
+        <x/>
+        <y>testo 3
+            <x>testo 4</x>
+        </y>
+        <z>testo 5
+            <x/>
+        </z>
+        <d/>
+    </x>
+    <z/>
+</rad>
